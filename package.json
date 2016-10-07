@@ -1,0 +1,22 @@
+{
+  "name": "@blazepress/fs",
+  "version": "1.0.0",
+  "description": "Treat paths as objects with convenient capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blazepress/fs.git"
+  },
+  "keywords": [
+    "fs"
+  ],
+  "author": "William Oney <flcoder+blazepress@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blazepress/fs/issues"
+  },
+  "homepage": "https://github.com/blazepress/fs#readme"
+}
