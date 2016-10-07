@@ -4,4 +4,4 @@ Treat paths as objects with convenient capabilities.
 
 ##Install
 
-`npm install @blazepress/fs`
+`npm install -s @blazepress/fs`
